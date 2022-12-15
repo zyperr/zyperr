@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zyperr
-- 👀 I’m interested in Programmin
+- 👋 Hi, I’m Maximiliano
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning sass and javascript
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me discord zyper.#6020
