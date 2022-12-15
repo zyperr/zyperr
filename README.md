@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyperr
 - 👀 I’m interested in Programmin
-- 🌱 I’m currently learning css and javascript
+- 🌱 I’m currently learning sass and javascript
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me discord zyper.#6020
 a
