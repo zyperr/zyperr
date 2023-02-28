@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maximiliano
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning sass and javascript
+- 🌱 I’m currently learning scss and javascript
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me discord zyper.#6020
 a
