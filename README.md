@@ -17,6 +17,6 @@
 
 ### My stats
 
-![zyperr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyperr&show_icons=true&theme=tokyonight&count_private=true)
+![zyperr's GitHub stats](https://github-readme-stats-zyperr.vercel.app/api?username=zyperr&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyperr&show_icons&theme=tokyonight&layout=compact&hide_progress=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zyperr.vercel.app/api/top-langs/?username=zyperr&show_icons&theme=tokyonight&layout=compact&hide_progress=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
