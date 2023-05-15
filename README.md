@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React - Sass - C#**
 
-- 👨‍💻 All of my projects are available at [https://zyperr.github.io/Portafolios-react/](https://zyperr.github.io/Portafolios-react/)
+- 👀 You can check my portafolios at [https://zyperr.github.io/Portafolios-react/](https://zyperr.github.io/Portafolios-react/)
 
 - 💬 Ask me about **Javascript - react**
 
