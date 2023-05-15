@@ -15,7 +15,7 @@
 
 ---
 
-### My stats
+## My stats
 
 <div align="center">
 <img src="https://github-readme-stats-zyperr.vercel.app/api?username=zyperr&show_icons=true&theme=tokyonight&count_private=true"/>
