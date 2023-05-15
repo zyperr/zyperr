@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript - react**
 
-- 📫 How to reach me **maxi200vera@gmail.com**
+- 📫 How to reach me **maxi200vera@gmail.com** or [linkedin](https://www.linkedin.com/in/maximiliano-vera-85571a248/)
 
 
 <h4 align="left">🔨 Languages and Tools:</h4>
