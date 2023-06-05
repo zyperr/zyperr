@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
 <h4 align="center">A passionate frontend developer from Argentina</h4>
 
-- 🌱 I’m currently learning **React - Sass - C#**
+- 🌱 I’m currently learning **React - Sass**
 
 - 👀 You can check my portafolios at [https://zyperr.github.io/Portafolios-react/](https://zyperr.github.io/Portafolios-react/)
 
