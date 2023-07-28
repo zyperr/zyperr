@@ -12,5 +12,7 @@
 ## My stats
 
 <div align="center">
+  <img src="https://github-readme-stats-zyperr.vercel.app/api?username=zyperr&show_icons=true&theme=tokyonight&count_private=true"/>
+ <img src="https://github-readme-stats-zyperr.vercel.app/api/top-langs/?username=zyperr&show_icons&theme=tokyonight&layout=compact&hide_progress=true&count_private=true"/>
 </div>
 
